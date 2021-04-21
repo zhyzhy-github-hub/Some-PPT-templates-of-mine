@@ -7,7 +7,7 @@ I just write some PPT templates, which are used PowerPoint and Beamer. Including
     I superficially modify my roommate's report which is talked in a conference held by Russia. It is a revision of my chinese template.
  ## Beamer
     A beamer template modified from Thinghua beamer.  To see the original template.
-    [Please click](https://www.latexstudio.net/archives/4051.html)
+  [Please click](https://www.latexstudio.net/archives/4051.html)
     <https://www.latexstudio.net/archives/4051.html>.[百度](https://www.baidu.com)
  
  [111](https://www.baidu.com)
